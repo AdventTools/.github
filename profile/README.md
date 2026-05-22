@@ -11,7 +11,7 @@ Construim instrumente de toate dimensiunile — de la scripturi mici care econom
 ## Proiecte publice
 
 - **[AdventShow](https://github.com/AdventTools/AdventShow)** — Aplicație gratuită pentru proiecția imnurilor și versetelor biblice în biserici. Include Biblia Cornilescu și 922 de imnuri. Cross-platform (Windows, macOS, Linux).
-- **[azsfinance](https://github.com/AdventTools/azsfinance)** — Sistem de management financiar pentru biserici și conferințe. Urmărire daruri / plăți / cheltuieli, cu verificare bidirecțională între biserici și conferințe.
+- **[azsfinance](https://github.com/AdventTools/azsfinance)** — Sistem de management financiar pentru biserici și conferințe. Urmărire daruri / plăți / cheltuieli, cu verificare bidirecțională între biserici și conferințe. Live: **[azsfinance.it4all.ro](https://azsfinance.it4all.ro)**.
 - **[dgpt-scripts](https://github.com/AdventTools/dgpt-scripts)** — Generator de diplome și planșe PPTX pentru campania *[Din grijă pentru tine](https://dingrijapentrutine.ro)*.
 
 ## În lucru
